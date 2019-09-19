@@ -30,5 +30,9 @@ module.exports = {
       'warn',{ extensions: ['.jsx', '.js']}
     ],
     'import/prefer-default-export': 'off',
+    'no-param-reassign': 'off',
+    'react/prop-types': 'off',
+    'jsx-a11y/control-has-associated-label': 'off',
+    'no-console': ["error", {allow: ["tron"]}]
   },
 };
