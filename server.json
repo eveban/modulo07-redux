@@ -28,39 +28,39 @@
   "products": [
     {
       "id": 1,
-      "title": "Tênis de Caminhada Leve Confortável",
+      "title": "SAULO, TENIS BOM - Tênis de Caminhada Leve Confortável - Ideal para o Saulo",
       "price": 179.9,
       "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
     },
     {
       "id": 2,
-      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
-      "price": 139.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+      "title": "SAULO COM DESCONTO - CÂMERA SONY ALPHA A7R III MIRRORLESS E-MOUNT (CORPO) - DESCONTO PARA O SAULO",
+      "price": 15999.9,
+      "image": "https://emania.vteximg.com.br/arquivos/ids/178744-1000-1000/1.jpg?v=636499900868400000"
     },
     {
       "id": 3,
-      "title": "Tênis Adidas Duramo Lite 2.0",
-      "price": 219.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+      "title": "SAULO - ESSA LENTE É LEGAL - Lente Sony FE 24-70mm F2.8 G Master | SEL2470GM",
+      "price": 21999.9,
+      "image": "https://d24opie0r44wsr.cloudfront.net/Custom/Content/Products/98/90/989071_3527-lente-sony-fe-24-70mm-f28-g-master-sel2470gm_z1_636734261225655960.jpg"
     },
     {
       "id": 5,
-      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
-      "price": 139.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+      "title": "SAULO - FAÇO UM PRECINHO BOM - Câmera Fotográfica Panasonic Lumix Dc-s1 C/ Lente 24-105 F/4",
+      "price": 45999.9,
+      "image": "https://http2.mlstatic.com/cmera-fotografica-panasonic-lumix-dc-s1-c-lente-24-105-f4-D_NQ_NP_958944-MLB31790008745_082019-W.webp"
     },
     {
       "id": 6,
-      "title": "Tênis Adidas Duramo Lite 2.0",
-      "price": 219.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+      "title": "SÓ PARA O SAULO - Leica Noctilux M 50mm F/0.95 Asph Lente 11-602",
+      "price": 75999.99,
+      "image": "https://http2.mlstatic.com/leica-noctilux-m-50mm-f095-asph-lente-11-602-D_NQ_NP_841630-MLB31836937538_082019-O.webp"
     },
     {
       "id": 4,
-      "title": "Tênis de Caminhada Leve Confortável",
-      "price": 179.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+      "title": "10% de desconto para o SAULO - Hasselblad H5D 50C Wi-Fi",
+      "price": 145999.9,
+      "image": "https://iphotochannel.com.br/wp-content/uploads/2016/06/iphoto-10-cameras-mais-caras-do-mundpo-3-768x427.jpg"
     }
   ]
 }
